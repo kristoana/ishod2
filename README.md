@@ -1,2 +1,2 @@
 # ishod2
-ishod 2
+Provjera drugog ishoda
